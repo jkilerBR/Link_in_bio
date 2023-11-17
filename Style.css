@@ -1,0 +1,174 @@
+        /*tela de celular*/
+@media(min-width: 300px){
+h1{
+  color: black;
+  font-size: 250%;
+  text-align: center;
+  margin-top: 0px;
+  padding-bottom: 40px;
+  padding-top: 0px;
+}
+button.kwai{
+  color: black;
+  background-color: #ff8206;
+  width: 60%;
+  height: 5%;
+  border: 5px solid black;
+  font-size: 250%;
+  border-radius: 70px;
+  margin-left: 20%;
+  margin-right: 0%;
+  margin-bottom: 30px;
+  margin-top: 5px;
+}
+button.insta{
+  color: black;
+  background-color: #ff1d74;
+  width: 60%;
+  height: 5%;
+  border: 5px solid black;
+  font-size: 230%;
+  border-radius: 70px;
+  margin-left: 20%;
+  margin-right: 0%;
+  margin-bottom: 30px;
+}
+button.twitwerX{
+  color: black;
+  background-color: #27d0ff;
+  width: 60%;
+  height: 5%;
+  border: 5px solid black;
+  font-size: 230%;
+  border-radius: 70px;
+  margin-left: 20%;
+  margin-right: 0%;
+  margin-bottom: 30px;
+}
+button.YouTube{
+  color: black;
+  background-color: red;
+  width: 60%;
+  height: 5%;
+  border: 5px solid black;
+  font-size: 230%;
+  border-radius: 70px;
+  margin-left: 20%;
+  margin-right: 0%;
+  margin-bottom: 30px;
+}
+button:hover{
+  transition: transform 300ms ease-in-out ;
+  transform: scale(1.05);
+  cursor: pointer;
+  border-color: #12ff09;
+}
+body{
+  background-color: #9f9f9f;
+  border: 3px solid red;
+  font-family: Sans-Serif;
+  border-radius: 0%;
+  margin: 0%;
+}
+img{
+  margin-left: 25%;
+  margin-bottom: 0%;
+  width: 50%;
+  height: 50%;
+}
+h6{
+  text-align: center ;
+  font-size: 15px;
+  padding-bottom: 0px;
+  padding-top: 10px;
+  margin-top: 60px;
+  margin-bottom: 8px;
+}
+}
+              /*tela de notbook*/
+@media (min-width: 1000px){
+ h1{
+  color: black;
+  font-size: 250%;
+  text-align: center;
+  margin-top: 0px;
+  padding-bottom: 40px;
+  padding-top: 0px;
+}
+button.kwai{
+  color: black;
+  background-color: #ff8206;
+  width: 40%;
+  height: 10%;
+  border: 5px solid black;
+  font-size: 250%;
+  border-radius: 70px;
+  margin-left: 30%;
+  margin-right: 0%;
+  margin-bottom: 30px;
+  margin-top: 5px;
+}
+button.insta{
+  color: black;
+  background-color: #ff1d74;
+  width: 40%;
+  height: 10%;
+  border: 5px solid black;
+  font-size: 230%;
+  border-radius: 70px;
+  margin-left: 30%;
+  margin-right: 0%;
+  margin-bottom: 30px;
+}
+button.twitwerX{
+  color: black;
+  background-color: #27d0ff;
+  width: 40%;
+  height: 10%;
+  border: 5px solid black;
+  font-size: 230%;
+  border-radius: 70px;
+  margin-left: 30%;
+  margin-right: 0%;
+  margin-bottom: 30px;
+}
+button.YouTube{
+  color: black;
+  background-color: red;
+  width: 40%;
+  height: 10%;
+  border: 5px solid black;
+  font-size: 230%;
+  border-radius: 70px;
+  margin-left: 30%;
+  margin-right: 0%;
+  margin-bottom: 30px;
+}
+button:hover{
+  transition: transform 300ms ease-in-out ;
+  transform: scale(1.05);
+  cursor: pointer;
+  border-color: #12ff09;
+}
+body{
+  background-color: #9f9f9f;
+  border: 3px solid red;
+  font-family: Sans-Serif;
+  border-radius: 0%;
+  margin:0%;
+}
+img{
+  margin-left: 25%;
+  margin-bottom: 0%;
+  width: 50%;
+  height: 50%;
+}
+h6{
+  text-align: center ;
+  font-size: 15px;
+  padding-bottom: 0px;
+  padding-top: 10px;
+  margin-top: 60px;
+  margin-bottom: 8px;
+}
+}
